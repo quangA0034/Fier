@@ -2,7 +2,7 @@ FIER - a small farming game
 ===========================
 
 HOW TO PLAY
-  Open  fier-farm.html  in a modern browser (Chrome, Edge, Firefox, Safari).
+  Open  index.html  in a modern browser (Chrome, Edge, Firefox, Safari).
   No install, no server. Your progress is saved in the browser automatically.
   (The pixel font loads from Google Fonts. Offline it falls back to a plain font.)
 
